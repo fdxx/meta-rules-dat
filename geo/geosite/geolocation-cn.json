@@ -4587,7 +4587,8 @@
         "themisweeps.com",
         "yuanshen.com",
         "bluepoch.com",
-        "sl916.com"
+        "sl916.com",
+        "588ku.com"
       ],
       "domain_suffix": [
         ".alibaba",
@@ -9158,7 +9159,8 @@
         ".themisweeps.com",
         ".yuanshen.com",
         ".bluepoch.com",
-        ".sl916.com"
+        ".sl916.com",
+        ".588ku.com"
       ],
       "domain_regex": [
         ".+\\.cdnhwc([1-9]|10)\\.(cn|com)$",
