@@ -1,15 +1,11 @@
 {
-  "version": 1,
-  "rules": [
-    {
-      "domain": [
-        "archlinux.org",
-        "archlinuxarm.org"
-      ],
-      "domain_suffix": [
-        ".archlinux.org",
-        ".archlinuxarm.org"
-      ]
-    }
-  ]
+    "version": 1,
+    "rules": [
+        {
+            "domain_suffix": [
+                "archlinux.org",
+                "archlinuxarm.org"
+            ]
+        }
+    ]
 }

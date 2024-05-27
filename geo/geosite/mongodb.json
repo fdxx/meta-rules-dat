@@ -1,15 +1,11 @@
 {
-  "version": 1,
-  "rules": [
-    {
-      "domain": [
-        "mongodb.com",
-        "mongodb.org"
-      ],
-      "domain_suffix": [
-        ".mongodb.com",
-        ".mongodb.org"
-      ]
-    }
-  ]
+    "version": 1,
+    "rules": [
+        {
+            "domain_suffix": [
+                "mongodb.com",
+                "mongodb.org"
+            ]
+        }
+    ]
 }

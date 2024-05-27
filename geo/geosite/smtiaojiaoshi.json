@@ -1,15 +1,11 @@
 {
-  "version": 1,
-  "rules": [
-    {
-      "domain": [
-        "jhxl.org",
-        "xn--sgt856gbjl.cc"
-      ],
-      "domain_suffix": [
-        ".jhxl.org",
-        ".xn--sgt856gbjl.cc"
-      ]
-    }
-  ]
+    "version": 1,
+    "rules": [
+        {
+            "domain_suffix": [
+                "jhxl.org",
+                "xn--sgt856gbjl.cc"
+            ]
+        }
+    ]
 }

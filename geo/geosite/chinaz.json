@@ -1,15 +1,11 @@
 {
-  "version": 1,
-  "rules": [
-    {
-      "domain": [
-        "chinaz.com",
-        "chinaz.net"
-      ],
-      "domain_suffix": [
-        ".chinaz.com",
-        ".chinaz.net"
-      ]
-    }
-  ]
+    "version": 1,
+    "rules": [
+        {
+            "domain_suffix": [
+                "chinaz.com",
+                "chinaz.net"
+            ]
+        }
+    ]
 }

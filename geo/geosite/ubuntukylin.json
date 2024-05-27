@@ -1,15 +1,11 @@
 {
-  "version": 1,
-  "rules": [
-    {
-      "domain": [
-        "openkylin.top",
-        "ubuntukylin.com"
-      ],
-      "domain_suffix": [
-        ".openkylin.top",
-        ".ubuntukylin.com"
-      ]
-    }
-  ]
+    "version": 1,
+    "rules": [
+        {
+            "domain_suffix": [
+                "openkylin.top",
+                "ubuntukylin.com"
+            ]
+        }
+    ]
 }

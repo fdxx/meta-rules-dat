@@ -1,15 +1,11 @@
 {
-  "version": 1,
-  "rules": [
-    {
-      "domain": [
-        "cdn77.com",
-        "cdn77.org"
-      ],
-      "domain_suffix": [
-        ".cdn77.com",
-        ".cdn77.org"
-      ]
-    }
-  ]
+    "version": 1,
+    "rules": [
+        {
+            "domain_suffix": [
+                "cdn77.com",
+                "cdn77.org"
+            ]
+        }
+    ]
 }

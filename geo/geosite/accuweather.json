@@ -1,9 +1,8 @@
 {
-  "version": 1,
-  "rules": [
-    {
-      "domain": "accuweather.com",
-      "domain_suffix": ".accuweather.com"
-    }
-  ]
+    "version": 1,
+    "rules": [
+        {
+            "domain_suffix": "accuweather.com"
+        }
+    ]
 }

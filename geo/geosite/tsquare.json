@@ -1,9 +1,8 @@
 {
-  "version": 1,
-  "rules": [
-    {
-      "domain": "tsquare.tv",
-      "domain_suffix": ".tsquare.tv"
-    }
-  ]
+    "version": 1,
+    "rules": [
+        {
+            "domain_suffix": "tsquare.tv"
+        }
+    ]
 }

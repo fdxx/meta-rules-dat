@@ -1,9 +1,8 @@
 {
-  "version": 1,
-  "rules": [
-    {
-      "domain": "movefree.cn",
-      "domain_suffix": ".movefree.cn"
-    }
-  ]
+    "version": 1,
+    "rules": [
+        {
+            "domain_suffix": "movefree.cn"
+        }
+    ]
 }

@@ -1,8 +1,8 @@
 {
-  "version": 1,
-  "rules": [
-    {
-      "domain_regex": "^(.+\\.)*zh\\.okaapps\\.com$"
-    }
-  ]
+    "version": 1,
+    "rules": [
+        {
+            "domain_regex": "^(.+\\.)*zh\\.okaapps\\.com$"
+        }
+    ]
 }

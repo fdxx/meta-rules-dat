@@ -1,15 +1,11 @@
 {
-  "version": 1,
-  "rules": [
-    {
-      "domain": [
-        "dishwashingexpert.com.cn",
-        "finish.com.cn"
-      ],
-      "domain_suffix": [
-        ".dishwashingexpert.com.cn",
-        ".finish.com.cn"
-      ]
-    }
-  ]
+    "version": 1,
+    "rules": [
+        {
+            "domain_suffix": [
+                "dishwashingexpert.com.cn",
+                "finish.com.cn"
+            ]
+        }
+    ]
 }

@@ -1,9 +1,8 @@
 {
-  "version": 1,
-  "rules": [
-    {
-      "domain": "aptoide.com",
-      "domain_suffix": ".aptoide.com"
-    }
-  ]
+    "version": 1,
+    "rules": [
+        {
+            "domain_suffix": "aptoide.com"
+        }
+    ]
 }

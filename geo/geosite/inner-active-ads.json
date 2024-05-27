@@ -1,9 +1,8 @@
 {
-  "version": 1,
-  "rules": [
-    {
-      "domain": "inner-active.mobi",
-      "domain_suffix": ".inner-active.mobi"
-    }
-  ]
+    "version": 1,
+    "rules": [
+        {
+            "domain_suffix": "inner-active.mobi"
+        }
+    ]
 }

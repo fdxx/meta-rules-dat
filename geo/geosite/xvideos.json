@@ -1,15 +1,11 @@
 {
-  "version": 1,
-  "rules": [
-    {
-      "domain": [
-        "xvideos-cdn.com",
-        "xvideos.com"
-      ],
-      "domain_suffix": [
-        ".xvideos-cdn.com",
-        ".xvideos.com"
-      ]
-    }
-  ]
+    "version": 1,
+    "rules": [
+        {
+            "domain_suffix": [
+                "xvideos-cdn.com",
+                "xvideos.com"
+            ]
+        }
+    ]
 }

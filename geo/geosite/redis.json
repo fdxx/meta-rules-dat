@@ -1,15 +1,11 @@
 {
-  "version": 1,
-  "rules": [
-    {
-      "domain": [
-        "redis.io",
-        "redislabs.com"
-      ],
-      "domain_suffix": [
-        ".redis.io",
-        ".redislabs.com"
-      ]
-    }
-  ]
+    "version": 1,
+    "rules": [
+        {
+            "domain_suffix": [
+                "redis.io",
+                "redislabs.com"
+            ]
+        }
+    ]
 }

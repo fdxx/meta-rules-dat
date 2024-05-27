@@ -1,9 +1,8 @@
 {
-  "version": 1,
-  "rules": [
-    {
-      "domain": "pkoplink.com",
-      "domain_suffix": ".pkoplink.com"
-    }
-  ]
+    "version": 1,
+    "rules": [
+        {
+            "domain_suffix": "pkoplink.com"
+        }
+    ]
 }

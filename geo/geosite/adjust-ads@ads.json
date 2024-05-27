@@ -1,9 +1,8 @@
 {
-  "version": 1,
-  "rules": [
-    {
-      "domain": "adjust.com",
-      "domain_suffix": ".adjust.com"
-    }
-  ]
+    "version": 1,
+    "rules": [
+        {
+            "domain_suffix": "adjust.com"
+        }
+    ]
 }

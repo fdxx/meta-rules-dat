@@ -1,9 +1,8 @@
 {
-  "version": 1,
-  "rules": [
-    {
-      "domain": "ads.pubmatic.com",
-      "domain_suffix": ".ads.pubmatic.com"
-    }
-  ]
+    "version": 1,
+    "rules": [
+        {
+            "domain_suffix": "ads.pubmatic.com"
+        }
+    ]
 }

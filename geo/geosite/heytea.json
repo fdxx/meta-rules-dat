@@ -1,9 +1,8 @@
 {
-  "version": 1,
-  "rules": [
-    {
-      "domain": "heytea.com",
-      "domain_suffix": ".heytea.com"
-    }
-  ]
+    "version": 1,
+    "rules": [
+        {
+            "domain_suffix": "heytea.com"
+        }
+    ]
 }

@@ -1,8 +1,8 @@
 {
-  "version": 1,
-  "rules": [
-    {
-      "domain": "chinapower.csis.org"
-    }
-  ]
+    "version": 1,
+    "rules": [
+        {
+            "domain": "chinapower.csis.org"
+        }
+    ]
 }

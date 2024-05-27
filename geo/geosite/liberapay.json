@@ -1,15 +1,11 @@
 {
-  "version": 1,
-  "rules": [
-    {
-      "domain": [
-        "liberapay.com",
-        "liberapay.org"
-      ],
-      "domain_suffix": [
-        ".liberapay.com",
-        ".liberapay.org"
-      ]
-    }
-  ]
+    "version": 1,
+    "rules": [
+        {
+            "domain_suffix": [
+                "liberapay.com",
+                "liberapay.org"
+            ]
+        }
+    ]
 }

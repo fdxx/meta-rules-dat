@@ -1,15 +1,11 @@
 {
-  "version": 1,
-  "rules": [
-    {
-      "domain": [
-        "jindidata.com",
-        "tianyancha.com"
-      ],
-      "domain_suffix": [
-        ".jindidata.com",
-        ".tianyancha.com"
-      ]
-    }
-  ]
+    "version": 1,
+    "rules": [
+        {
+            "domain_suffix": [
+                "jindidata.com",
+                "tianyancha.com"
+            ]
+        }
+    ]
 }

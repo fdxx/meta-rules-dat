@@ -1,9 +1,8 @@
 {
-  "version": 1,
-  "rules": [
-    {
-      "domain": "qingting.fm",
-      "domain_suffix": ".qingting.fm"
-    }
-  ]
+    "version": 1,
+    "rules": [
+        {
+            "domain_suffix": "qingting.fm"
+        }
+    ]
 }

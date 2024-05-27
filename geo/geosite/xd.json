@@ -1,33 +1,20 @@
 {
-  "version": 1,
-  "rules": [
-    {
-      "domain": [
-        "ro.com",
-        "xd.cn",
-        "xd.com",
-        "xdcdn.net",
-        "xindong.com",
-        "tapimg.com",
-        "tapimg.net",
-        "taptap.cn",
-        "taptap.com",
-        "taptap.io",
-        "taptapdada.com"
-      ],
-      "domain_suffix": [
-        ".ro.com",
-        ".xd.cn",
-        ".xd.com",
-        ".xdcdn.net",
-        ".xindong.com",
-        ".tapimg.com",
-        ".tapimg.net",
-        ".taptap.cn",
-        ".taptap.com",
-        ".taptap.io",
-        ".taptapdada.com"
-      ]
-    }
-  ]
+    "version": 1,
+    "rules": [
+        {
+            "domain_suffix": [
+                "ro.com",
+                "xd.cn",
+                "xd.com",
+                "xdcdn.net",
+                "xindong.com",
+                "tapimg.com",
+                "tapimg.net",
+                "taptap.cn",
+                "taptap.com",
+                "taptap.io",
+                "taptapdada.com"
+            ]
+        }
+    ]
 }

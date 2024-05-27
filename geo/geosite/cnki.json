@@ -1,15 +1,11 @@
 {
-  "version": 1,
-  "rules": [
-    {
-      "domain": [
-        "cnki.net",
-        "cnki.com.cn"
-      ],
-      "domain_suffix": [
-        ".cnki.net",
-        ".cnki.com.cn"
-      ]
-    }
-  ]
+    "version": 1,
+    "rules": [
+        {
+            "domain_suffix": [
+                "cnki.net",
+                "cnki.com.cn"
+            ]
+        }
+    ]
 }

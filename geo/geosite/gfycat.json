@@ -1,9 +1,8 @@
 {
-  "version": 1,
-  "rules": [
-    {
-      "domain": "gfycat.com",
-      "domain_suffix": ".gfycat.com"
-    }
-  ]
+    "version": 1,
+    "rules": [
+        {
+            "domain_suffix": "gfycat.com"
+        }
+    ]
 }

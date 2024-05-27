@@ -1,9 +1,8 @@
 {
-  "version": 1,
-  "rules": [
-    {
-      "domain": "getadblock.com",
-      "domain_suffix": ".getadblock.com"
-    }
-  ]
+    "version": 1,
+    "rules": [
+        {
+            "domain_suffix": "getadblock.com"
+        }
+    ]
 }

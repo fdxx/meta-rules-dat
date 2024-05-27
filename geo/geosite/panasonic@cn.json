@@ -1,9 +1,8 @@
 {
-  "version": 1,
-  "rules": [
-    {
-      "domain": "panasonic.cn",
-      "domain_suffix": ".panasonic.cn"
-    }
-  ]
+    "version": 1,
+    "rules": [
+        {
+            "domain_suffix": "panasonic.cn"
+        }
+    ]
 }

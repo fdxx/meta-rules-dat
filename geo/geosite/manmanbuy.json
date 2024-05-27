@@ -1,9 +1,8 @@
 {
-  "version": 1,
-  "rules": [
-    {
-      "domain": "manmanbuy.com",
-      "domain_suffix": ".manmanbuy.com"
-    }
-  ]
+    "version": 1,
+    "rules": [
+        {
+            "domain_suffix": "manmanbuy.com"
+        }
+    ]
 }

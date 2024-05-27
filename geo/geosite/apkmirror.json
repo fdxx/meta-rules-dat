@@ -1,9 +1,8 @@
 {
-  "version": 1,
-  "rules": [
-    {
-      "domain": "apkmirror.com",
-      "domain_suffix": ".apkmirror.com"
-    }
-  ]
+    "version": 1,
+    "rules": [
+        {
+            "domain_suffix": "apkmirror.com"
+        }
+    ]
 }

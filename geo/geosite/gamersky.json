@@ -1,9 +1,8 @@
 {
-  "version": 1,
-  "rules": [
-    {
-      "domain": "gamersky.com",
-      "domain_suffix": ".gamersky.com"
-    }
-  ]
+    "version": 1,
+    "rules": [
+        {
+            "domain_suffix": "gamersky.com"
+        }
+    ]
 }

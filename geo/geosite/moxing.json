@@ -1,15 +1,11 @@
 {
-  "version": 1,
-  "rules": [
-    {
-      "domain": [
-        "moxing.mobi",
-        "moxing.news"
-      ],
-      "domain_suffix": [
-        ".moxing.mobi",
-        ".moxing.news"
-      ]
-    }
-  ]
+    "version": 1,
+    "rules": [
+        {
+            "domain_suffix": [
+                "moxing.mobi",
+                "moxing.news"
+            ]
+        }
+    ]
 }

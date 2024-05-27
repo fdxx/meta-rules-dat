@@ -1,15 +1,11 @@
 {
-  "version": 1,
-  "rules": [
-    {
-      "domain": [
-        "afdian.net",
-        "afdiancdn.com"
-      ],
-      "domain_suffix": [
-        ".afdian.net",
-        ".afdiancdn.com"
-      ]
-    }
-  ]
+    "version": 1,
+    "rules": [
+        {
+            "domain_suffix": [
+                "afdian.net",
+                "afdiancdn.com"
+            ]
+        }
+    ]
 }

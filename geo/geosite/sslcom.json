@@ -1,15 +1,11 @@
 {
-  "version": 1,
-  "rules": [
-    {
-      "domain": [
-        "ssl.com",
-        "sslcom.cn"
-      ],
-      "domain_suffix": [
-        ".ssl.com",
-        ".sslcom.cn"
-      ]
-    }
-  ]
+    "version": 1,
+    "rules": [
+        {
+            "domain_suffix": [
+                "ssl.com",
+                "sslcom.cn"
+            ]
+        }
+    ]
 }

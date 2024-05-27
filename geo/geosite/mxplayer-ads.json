@@ -1,9 +1,8 @@
 {
-  "version": 1,
-  "rules": [
-    {
-      "domain": "evt.mxplay.com",
-      "domain_suffix": ".evt.mxplay.com"
-    }
-  ]
+    "version": 1,
+    "rules": [
+        {
+            "domain_suffix": "evt.mxplay.com"
+        }
+    ]
 }

@@ -1,15 +1,11 @@
 {
-  "version": 1,
-  "rules": [
-    {
-      "domain": [
-        "advertising.adobe.com",
-        "tubemogul.com"
-      ],
-      "domain_suffix": [
-        ".advertising.adobe.com",
-        ".tubemogul.com"
-      ]
-    }
-  ]
+    "version": 1,
+    "rules": [
+        {
+            "domain_suffix": [
+                "advertising.adobe.com",
+                "tubemogul.com"
+            ]
+        }
+    ]
 }

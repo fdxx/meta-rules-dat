@@ -1,17 +1,12 @@
 {
-  "version": 1,
-  "rules": [
-    {
-      "domain": [
-        "ogury.com",
-        "presage.io",
-        "ogury.co"
-      ],
-      "domain_suffix": [
-        ".ogury.com",
-        ".presage.io",
-        ".ogury.co"
-      ]
-    }
-  ]
+    "version": 1,
+    "rules": [
+        {
+            "domain_suffix": [
+                "ogury.com",
+                "presage.io",
+                "ogury.co"
+            ]
+        }
+    ]
 }

@@ -1,19 +1,13 @@
 {
-  "version": 1,
-  "rules": [
-    {
-      "domain": [
-        "go2map.com",
-        "sogo.com",
-        "sogou.com",
-        "sogoucdn.com"
-      ],
-      "domain_suffix": [
-        ".go2map.com",
-        ".sogo.com",
-        ".sogou.com",
-        ".sogoucdn.com"
-      ]
-    }
-  ]
+    "version": 1,
+    "rules": [
+        {
+            "domain_suffix": [
+                "go2map.com",
+                "sogo.com",
+                "sogou.com",
+                "sogoucdn.com"
+            ]
+        }
+    ]
 }

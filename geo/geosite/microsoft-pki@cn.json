@@ -1,8 +1,8 @@
 {
-  "version": 1,
-  "rules": [
-    {
-      "domain": "www.microsoft.com"
-    }
-  ]
+    "version": 1,
+    "rules": [
+        {
+            "domain": "www.microsoft.com"
+        }
+    ]
 }

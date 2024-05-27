@@ -1,21 +1,14 @@
 {
-  "version": 1,
-  "rules": [
-    {
-      "domain": [
-        "razer.com",
-        "razersupport.com",
-        "razerzone.com",
-        "razerzone.jp",
-        "respawnbyrazer.com"
-      ],
-      "domain_suffix": [
-        ".razer.com",
-        ".razersupport.com",
-        ".razerzone.com",
-        ".razerzone.jp",
-        ".respawnbyrazer.com"
-      ]
-    }
-  ]
+    "version": 1,
+    "rules": [
+        {
+            "domain_suffix": [
+                "razer.com",
+                "razersupport.com",
+                "razerzone.com",
+                "razerzone.jp",
+                "respawnbyrazer.com"
+            ]
+        }
+    ]
 }

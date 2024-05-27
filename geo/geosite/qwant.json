@@ -1,19 +1,13 @@
 {
-  "version": 1,
-  "rules": [
-    {
-      "domain": [
-        "qwant.com",
-        "qwant.de",
-        "qwant.fr",
-        "qwant.it"
-      ],
-      "domain_suffix": [
-        ".qwant.com",
-        ".qwant.de",
-        ".qwant.fr",
-        ".qwant.it"
-      ]
-    }
-  ]
+    "version": 1,
+    "rules": [
+        {
+            "domain_suffix": [
+                "qwant.com",
+                "qwant.de",
+                "qwant.fr",
+                "qwant.it"
+            ]
+        }
+    ]
 }

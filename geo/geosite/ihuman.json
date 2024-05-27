@@ -1,15 +1,11 @@
 {
-  "version": 1,
-  "rules": [
-    {
-      "domain": [
-        "ihuman.com",
-        "hongen.com"
-      ],
-      "domain_suffix": [
-        ".ihuman.com",
-        ".hongen.com"
-      ]
-    }
-  ]
+    "version": 1,
+    "rules": [
+        {
+            "domain_suffix": [
+                "ihuman.com",
+                "hongen.com"
+            ]
+        }
+    ]
 }

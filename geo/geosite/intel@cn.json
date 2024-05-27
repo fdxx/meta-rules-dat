@@ -1,17 +1,12 @@
 {
-  "version": 1,
-  "rules": [
-    {
-      "domain": [
-        "intel.cn",
-        "intel.com.cn",
-        "intelrealsense.cn"
-      ],
-      "domain_suffix": [
-        ".intel.cn",
-        ".intel.com.cn",
-        ".intelrealsense.cn"
-      ]
-    }
-  ]
+    "version": 1,
+    "rules": [
+        {
+            "domain_suffix": [
+                "intel.cn",
+                "intel.com.cn",
+                "intelrealsense.cn"
+            ]
+        }
+    ]
 }

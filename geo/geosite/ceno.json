@@ -1,9 +1,8 @@
 {
-  "version": 1,
-  "rules": [
-    {
-      "domain": "censorship.no",
-      "domain_suffix": ".censorship.no"
-    }
-  ]
+    "version": 1,
+    "rules": [
+        {
+            "domain_suffix": "censorship.no"
+        }
+    ]
 }

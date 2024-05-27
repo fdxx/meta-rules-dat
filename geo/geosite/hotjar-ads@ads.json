@@ -1,9 +1,8 @@
 {
-  "version": 1,
-  "rules": [
-    {
-      "domain": "static.hotjar.com",
-      "domain_suffix": ".static.hotjar.com"
-    }
-  ]
+    "version": 1,
+    "rules": [
+        {
+            "domain_suffix": "static.hotjar.com"
+        }
+    ]
 }

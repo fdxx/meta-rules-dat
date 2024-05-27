@@ -1,15 +1,11 @@
 {
-  "version": 1,
-  "rules": [
-    {
-      "domain": [
-        "acplay.net",
-        "dandanplay.com"
-      ],
-      "domain_suffix": [
-        ".acplay.net",
-        ".dandanplay.com"
-      ]
-    }
-  ]
+    "version": 1,
+    "rules": [
+        {
+            "domain_suffix": [
+                "acplay.net",
+                "dandanplay.com"
+            ]
+        }
+    ]
 }

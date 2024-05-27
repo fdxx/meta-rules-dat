@@ -1,15 +1,11 @@
 {
-  "version": 1,
-  "rules": [
-    {
-      "domain": [
-        "cybertrust.co.jp",
-        "cybertrust.ne.jp"
-      ],
-      "domain_suffix": [
-        ".cybertrust.co.jp",
-        ".cybertrust.ne.jp"
-      ]
-    }
-  ]
+    "version": 1,
+    "rules": [
+        {
+            "domain_suffix": [
+                "cybertrust.co.jp",
+                "cybertrust.ne.jp"
+            ]
+        }
+    ]
 }

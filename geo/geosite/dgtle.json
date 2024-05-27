@@ -1,9 +1,8 @@
 {
-  "version": 1,
-  "rules": [
-    {
-      "domain": "dgtle.com",
-      "domain_suffix": ".dgtle.com"
-    }
-  ]
+    "version": 1,
+    "rules": [
+        {
+            "domain_suffix": "dgtle.com"
+        }
+    ]
 }

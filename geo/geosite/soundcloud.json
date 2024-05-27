@@ -1,15 +1,11 @@
 {
-  "version": 1,
-  "rules": [
-    {
-      "domain": [
-        "soundcloud.com",
-        "sndcdn.com"
-      ],
-      "domain_suffix": [
-        ".soundcloud.com",
-        ".sndcdn.com"
-      ]
-    }
-  ]
+    "version": 1,
+    "rules": [
+        {
+            "domain_suffix": [
+                "soundcloud.com",
+                "sndcdn.com"
+            ]
+        }
+    ]
 }

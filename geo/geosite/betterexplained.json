@@ -1,9 +1,8 @@
 {
-  "version": 1,
-  "rules": [
-    {
-      "domain": "betterexplained.com",
-      "domain_suffix": ".betterexplained.com"
-    }
-  ]
+    "version": 1,
+    "rules": [
+        {
+            "domain_suffix": "betterexplained.com"
+        }
+    ]
 }

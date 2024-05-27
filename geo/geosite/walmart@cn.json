@@ -1,9 +1,8 @@
 {
-  "version": 1,
-  "rules": [
-    {
-      "domain": "walmart.cn",
-      "domain_suffix": ".walmart.cn"
-    }
-  ]
+    "version": 1,
+    "rules": [
+        {
+            "domain_suffix": "walmart.cn"
+        }
+    ]
 }

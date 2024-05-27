@@ -1,17 +1,12 @@
 {
-  "version": 1,
-  "rules": [
-    {
-      "domain": [
-        "geforce.cn",
-        "gputechconf.cn",
-        "nvidia.cn"
-      ],
-      "domain_suffix": [
-        ".geforce.cn",
-        ".gputechconf.cn",
-        ".nvidia.cn"
-      ]
-    }
-  ]
+    "version": 1,
+    "rules": [
+        {
+            "domain_suffix": [
+                "geforce.cn",
+                "gputechconf.cn",
+                "nvidia.cn"
+            ]
+        }
+    ]
 }

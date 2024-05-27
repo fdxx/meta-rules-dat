@@ -1,19 +1,13 @@
 {
-  "version": 1,
-  "rules": [
-    {
-      "domain": [
-        "apkpure.com",
-        "cdnpure.com",
-        "pureapk.com",
-        "winudf.com"
-      ],
-      "domain_suffix": [
-        ".apkpure.com",
-        ".cdnpure.com",
-        ".pureapk.com",
-        ".winudf.com"
-      ]
-    }
-  ]
+    "version": 1,
+    "rules": [
+        {
+            "domain_suffix": [
+                "apkpure.com",
+                "cdnpure.com",
+                "pureapk.com",
+                "winudf.com"
+            ]
+        }
+    ]
 }

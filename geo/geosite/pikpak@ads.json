@@ -1,8 +1,8 @@
 {
-  "version": 1,
-  "rules": [
-    {
-      "domain": "o4504926511693824.ingest.sentry.io"
-    }
-  ]
+    "version": 1,
+    "rules": [
+        {
+            "domain": "o4504926511693824.ingest.sentry.io"
+        }
+    ]
 }

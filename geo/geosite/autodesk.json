@@ -1,9 +1,8 @@
 {
-  "version": 1,
-  "rules": [
-    {
-      "domain": "autodesk.com",
-      "domain_suffix": ".autodesk.com"
-    }
-  ]
+    "version": 1,
+    "rules": [
+        {
+            "domain_suffix": "autodesk.com"
+        }
+    ]
 }

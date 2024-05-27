@@ -1,9 +1,8 @@
 {
-  "version": 1,
-  "rules": [
-    {
-      "domain": "knovel.com",
-      "domain_suffix": ".knovel.com"
-    }
-  ]
+    "version": 1,
+    "rules": [
+        {
+            "domain_suffix": "knovel.com"
+        }
+    ]
 }

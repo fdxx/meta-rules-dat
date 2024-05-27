@@ -1,9 +1,8 @@
 {
-  "version": 1,
-  "rules": [
-    {
-      "domain": "ali213.net",
-      "domain_suffix": ".ali213.net"
-    }
-  ]
+    "version": 1,
+    "rules": [
+        {
+            "domain_suffix": "ali213.net"
+        }
+    ]
 }

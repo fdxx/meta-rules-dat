@@ -1,15 +1,11 @@
 {
-  "version": 1,
-  "rules": [
-    {
-      "domain": [
-        "javwide.com",
-        "javwide.tv"
-      ],
-      "domain_suffix": [
-        ".javwide.com",
-        ".javwide.tv"
-      ]
-    }
-  ]
+    "version": 1,
+    "rules": [
+        {
+            "domain_suffix": [
+                "javwide.com",
+                "javwide.tv"
+            ]
+        }
+    ]
 }

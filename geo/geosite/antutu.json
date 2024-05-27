@@ -1,9 +1,8 @@
 {
-  "version": 1,
-  "rules": [
-    {
-      "domain": "antutu.com",
-      "domain_suffix": ".antutu.com"
-    }
-  ]
+    "version": 1,
+    "rules": [
+        {
+            "domain_suffix": "antutu.com"
+        }
+    ]
 }

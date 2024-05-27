@@ -1,9 +1,8 @@
 {
-  "version": 1,
-  "rules": [
-    {
-      "domain": "cugbonline.cn",
-      "domain_suffix": ".cugbonline.cn"
-    }
-  ]
+    "version": 1,
+    "rules": [
+        {
+            "domain_suffix": "cugbonline.cn"
+        }
+    ]
 }

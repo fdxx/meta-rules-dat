@@ -1,15 +1,11 @@
 {
-  "version": 1,
-  "rules": [
-    {
-      "domain": [
-        "larksuite.com",
-        "larksuitecdn.com"
-      ],
-      "domain_suffix": [
-        ".larksuite.com",
-        ".larksuitecdn.com"
-      ]
-    }
-  ]
+    "version": 1,
+    "rules": [
+        {
+            "domain_suffix": [
+                "larksuite.com",
+                "larksuitecdn.com"
+            ]
+        }
+    ]
 }

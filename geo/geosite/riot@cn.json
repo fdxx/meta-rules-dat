@@ -1,15 +1,11 @@
 {
-  "version": 1,
-  "rules": [
-    {
-      "domain": [
-        "leagueoflegends.cn",
-        "lpl.com.cn"
-      ],
-      "domain_suffix": [
-        ".leagueoflegends.cn",
-        ".lpl.com.cn"
-      ]
-    }
-  ]
+    "version": 1,
+    "rules": [
+        {
+            "domain_suffix": [
+                "leagueoflegends.cn",
+                "lpl.com.cn"
+            ]
+        }
+    ]
 }

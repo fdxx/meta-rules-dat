@@ -1,15 +1,11 @@
 {
-  "version": 1,
-  "rules": [
-    {
-      "domain": [
-        "mapbox.com",
-        "mapbox.cn"
-      ],
-      "domain_suffix": [
-        ".mapbox.com",
-        ".mapbox.cn"
-      ]
-    }
-  ]
+    "version": 1,
+    "rules": [
+        {
+            "domain_suffix": [
+                "mapbox.com",
+                "mapbox.cn"
+            ]
+        }
+    ]
 }

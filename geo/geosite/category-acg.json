@@ -1,27 +1,17 @@
 {
-  "version": 1,
-  "rules": [
-    {
-      "domain": [
-        "colorfulstage.com",
-        "lapriere.jp",
-        "magicalmirai.com",
-        "mikuexpo.com",
-        "piapro.net",
-        "snowmiku.com",
-        "bowlroll.net",
-        "crypton.co.jp"
-      ],
-      "domain_suffix": [
-        ".colorfulstage.com",
-        ".lapriere.jp",
-        ".magicalmirai.com",
-        ".mikuexpo.com",
-        ".piapro.net",
-        ".snowmiku.com",
-        ".bowlroll.net",
-        ".crypton.co.jp"
-      ]
-    }
-  ]
+    "version": 1,
+    "rules": [
+        {
+            "domain_suffix": [
+                "colorfulstage.com",
+                "lapriere.jp",
+                "magicalmirai.com",
+                "mikuexpo.com",
+                "piapro.net",
+                "snowmiku.com",
+                "bowlroll.net",
+                "crypton.co.jp"
+            ]
+        }
+    ]
 }

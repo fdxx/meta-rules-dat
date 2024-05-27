@@ -1,9 +1,8 @@
 {
-  "version": 1,
-  "rules": [
-    {
-      "domain": "kindle4rss.com",
-      "domain_suffix": ".kindle4rss.com"
-    }
-  ]
+    "version": 1,
+    "rules": [
+        {
+            "domain_suffix": "kindle4rss.com"
+        }
+    ]
 }

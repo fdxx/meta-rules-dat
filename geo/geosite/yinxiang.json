@@ -1,9 +1,8 @@
 {
-  "version": 1,
-  "rules": [
-    {
-      "domain": "yinxiang.com",
-      "domain_suffix": ".yinxiang.com"
-    }
-  ]
+    "version": 1,
+    "rules": [
+        {
+            "domain_suffix": "yinxiang.com"
+        }
+    ]
 }

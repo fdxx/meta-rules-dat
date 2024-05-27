@@ -1,17 +1,12 @@
 {
-  "version": 1,
-  "rules": [
-    {
-      "domain": [
-        "youzan.com",
-        "yzcdn.cn",
-        "youzanyun.com"
-      ],
-      "domain_suffix": [
-        ".youzan.com",
-        ".yzcdn.cn",
-        ".youzanyun.com"
-      ]
-    }
-  ]
+    "version": 1,
+    "rules": [
+        {
+            "domain_suffix": [
+                "youzan.com",
+                "yzcdn.cn",
+                "youzanyun.com"
+            ]
+        }
+    ]
 }

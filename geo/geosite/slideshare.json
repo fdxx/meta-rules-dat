@@ -1,17 +1,12 @@
 {
-  "version": 1,
-  "rules": [
-    {
-      "domain": [
-        "slideshare.com",
-        "slideshare.net",
-        "slidesharecdn.com"
-      ],
-      "domain_suffix": [
-        ".slideshare.com",
-        ".slideshare.net",
-        ".slidesharecdn.com"
-      ]
-    }
-  ]
+    "version": 1,
+    "rules": [
+        {
+            "domain_suffix": [
+                "slideshare.com",
+                "slideshare.net",
+                "slidesharecdn.com"
+            ]
+        }
+    ]
 }

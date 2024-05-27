@@ -1,8 +1,8 @@
 {
-  "version": 1,
-  "rules": [
-    {
-      "domain": "apilog-web.acfun.cn"
-    }
-  ]
+    "version": 1,
+    "rules": [
+        {
+            "domain": "apilog-web.acfun.cn"
+        }
+    ]
 }

@@ -1,9 +1,8 @@
 {
-  "version": 1,
-  "rules": [
-    {
-      "domain": "mopub.com",
-      "domain_suffix": ".mopub.com"
-    }
-  ]
+    "version": 1,
+    "rules": [
+        {
+            "domain_suffix": "mopub.com"
+        }
+    ]
 }

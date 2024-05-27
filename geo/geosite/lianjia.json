@@ -1,15 +1,11 @@
 {
-  "version": 1,
-  "rules": [
-    {
-      "domain": [
-        "lianjia.com",
-        "ljcdn.com"
-      ],
-      "domain_suffix": [
-        ".lianjia.com",
-        ".ljcdn.com"
-      ]
-    }
-  ]
+    "version": 1,
+    "rules": [
+        {
+            "domain_suffix": [
+                "lianjia.com",
+                "ljcdn.com"
+            ]
+        }
+    ]
 }

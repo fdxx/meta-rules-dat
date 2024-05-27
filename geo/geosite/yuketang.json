@@ -1,15 +1,11 @@
 {
-  "version": 1,
-  "rules": [
-    {
-      "domain": [
-        "rainclassroom.com",
-        "yuketang.cn"
-      ],
-      "domain_suffix": [
-        ".rainclassroom.com",
-        ".yuketang.cn"
-      ]
-    }
-  ]
+    "version": 1,
+    "rules": [
+        {
+            "domain_suffix": [
+                "rainclassroom.com",
+                "yuketang.cn"
+            ]
+        }
+    ]
 }

@@ -1,15 +1,11 @@
 {
-  "version": 1,
-  "rules": [
-    {
-      "domain": [
-        "dangdang.com",
-        "ddimg.cn"
-      ],
-      "domain_suffix": [
-        ".dangdang.com",
-        ".ddimg.cn"
-      ]
-    }
-  ]
+    "version": 1,
+    "rules": [
+        {
+            "domain_suffix": [
+                "dangdang.com",
+                "ddimg.cn"
+            ]
+        }
+    ]
 }

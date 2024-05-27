@@ -1,9 +1,8 @@
 {
-  "version": 1,
-  "rules": [
-    {
-      "domain": "x.ai",
-      "domain_suffix": ".x.ai"
-    }
-  ]
+    "version": 1,
+    "rules": [
+        {
+            "domain_suffix": "x.ai"
+        }
+    ]
 }

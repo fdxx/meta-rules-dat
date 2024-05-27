@@ -1,9 +1,8 @@
 {
-  "version": 1,
-  "rules": [
-    {
-      "domain": "starbucks.com.cn",
-      "domain_suffix": ".starbucks.com.cn"
-    }
-  ]
+    "version": 1,
+    "rules": [
+        {
+            "domain_suffix": "starbucks.com.cn"
+        }
+    ]
 }

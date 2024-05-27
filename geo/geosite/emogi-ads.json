@@ -1,9 +1,8 @@
 {
-  "version": 1,
-  "rules": [
-    {
-      "domain": "emogi.com",
-      "domain_suffix": ".emogi.com"
-    }
-  ]
+    "version": 1,
+    "rules": [
+        {
+            "domain_suffix": "emogi.com"
+        }
+    ]
 }

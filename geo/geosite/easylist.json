@@ -1,15 +1,11 @@
 {
-  "version": 1,
-  "rules": [
-    {
-      "domain": [
-        "easylist.to",
-        "lanik.us"
-      ],
-      "domain_suffix": [
-        ".easylist.to",
-        ".lanik.us"
-      ]
-    }
-  ]
+    "version": 1,
+    "rules": [
+        {
+            "domain_suffix": [
+                "easylist.to",
+                "lanik.us"
+            ]
+        }
+    ]
 }

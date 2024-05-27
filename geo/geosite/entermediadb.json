@@ -1,15 +1,11 @@
 {
-  "version": 1,
-  "rules": [
-    {
-      "domain": [
-        "entermediadb.net",
-        "entermediadb.org"
-      ],
-      "domain_suffix": [
-        ".entermediadb.net",
-        ".entermediadb.org"
-      ]
-    }
-  ]
+    "version": 1,
+    "rules": [
+        {
+            "domain_suffix": [
+                "entermediadb.net",
+                "entermediadb.org"
+            ]
+        }
+    ]
 }

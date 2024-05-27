@@ -1,15 +1,11 @@
 {
-  "version": 1,
-  "rules": [
-    {
-      "domain": [
-        "quera.ir",
-        "quera.org"
-      ],
-      "domain_suffix": [
-        ".quera.ir",
-        ".quera.org"
-      ]
-    }
-  ]
+    "version": 1,
+    "rules": [
+        {
+            "domain_suffix": [
+                "quera.ir",
+                "quera.org"
+            ]
+        }
+    ]
 }

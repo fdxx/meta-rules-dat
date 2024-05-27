@@ -1,9 +1,8 @@
 {
-  "version": 1,
-  "rules": [
-    {
-      "domain": "4008-517-517.cn",
-      "domain_suffix": ".4008-517-517.cn"
-    }
-  ]
+    "version": 1,
+    "rules": [
+        {
+            "domain_suffix": "4008-517-517.cn"
+        }
+    ]
 }

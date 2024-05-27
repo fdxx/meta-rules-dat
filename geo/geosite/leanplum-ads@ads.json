@@ -1,9 +1,8 @@
 {
-  "version": 1,
-  "rules": [
-    {
-      "domain": "leanplum.com",
-      "domain_suffix": ".leanplum.com"
-    }
-  ]
+    "version": 1,
+    "rules": [
+        {
+            "domain_suffix": "leanplum.com"
+        }
+    ]
 }

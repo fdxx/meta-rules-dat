@@ -1,15 +1,11 @@
 {
-  "version": 1,
-  "rules": [
-    {
-      "domain": [
-        "jiemian.com",
-        "jiemian.com.cn"
-      ],
-      "domain_suffix": [
-        ".jiemian.com",
-        ".jiemian.com.cn"
-      ]
-    }
-  ]
+    "version": 1,
+    "rules": [
+        {
+            "domain_suffix": [
+                "jiemian.com",
+                "jiemian.com.cn"
+            ]
+        }
+    ]
 }

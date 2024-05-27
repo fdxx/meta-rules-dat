@@ -1,15 +1,11 @@
 {
-  "version": 1,
-  "rules": [
-    {
-      "domain": [
-        "capitalonline.net",
-        "mirrors.yun-idc.com"
-      ],
-      "domain_suffix": [
-        ".capitalonline.net",
-        ".mirrors.yun-idc.com"
-      ]
-    }
-  ]
+    "version": 1,
+    "rules": [
+        {
+            "domain_suffix": [
+                "capitalonline.net",
+                "mirrors.yun-idc.com"
+            ]
+        }
+    ]
 }

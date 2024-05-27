@@ -1,19 +1,13 @@
 {
-  "version": 1,
-  "rules": [
-    {
-      "domain": [
-        "unity.com",
-        "unity3d.com",
-        "unityads.unity3d.com",
-        "unityads.unitychina.cn"
-      ],
-      "domain_suffix": [
-        ".unity.com",
-        ".unity3d.com",
-        ".unityads.unity3d.com",
-        ".unityads.unitychina.cn"
-      ]
-    }
-  ]
+    "version": 1,
+    "rules": [
+        {
+            "domain_suffix": [
+                "unity.com",
+                "unity3d.com",
+                "unityads.unity3d.com",
+                "unityads.unitychina.cn"
+            ]
+        }
+    ]
 }

@@ -1,15 +1,11 @@
 {
-  "version": 1,
-  "rules": [
-    {
-      "domain": [
-        "zhihu.com",
-        "zhimg.com"
-      ],
-      "domain_suffix": [
-        ".zhihu.com",
-        ".zhimg.com"
-      ]
-    }
-  ]
+    "version": 1,
+    "rules": [
+        {
+            "domain_suffix": [
+                "zhihu.com",
+                "zhimg.com"
+            ]
+        }
+    ]
 }

@@ -1,19 +1,13 @@
 {
-  "version": 1,
-  "rules": [
-    {
-      "domain": [
-        "flyme.cn",
-        "meizu.cn",
-        "meizu.com",
-        "mzres.com"
-      ],
-      "domain_suffix": [
-        ".flyme.cn",
-        ".meizu.cn",
-        ".meizu.com",
-        ".mzres.com"
-      ]
-    }
-  ]
+    "version": 1,
+    "rules": [
+        {
+            "domain_suffix": [
+                "flyme.cn",
+                "meizu.cn",
+                "meizu.com",
+                "mzres.com"
+            ]
+        }
+    ]
 }

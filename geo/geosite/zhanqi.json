@@ -1,9 +1,8 @@
 {
-  "version": 1,
-  "rules": [
-    {
-      "domain": "zhanqi.tv",
-      "domain_suffix": ".zhanqi.tv"
-    }
-  ]
+    "version": 1,
+    "rules": [
+        {
+            "domain_suffix": "zhanqi.tv"
+        }
+    ]
 }

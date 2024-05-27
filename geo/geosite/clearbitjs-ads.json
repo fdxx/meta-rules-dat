@@ -1,9 +1,8 @@
 {
-  "version": 1,
-  "rules": [
-    {
-      "domain": "x.clearbitjs.com",
-      "domain_suffix": ".x.clearbitjs.com"
-    }
-  ]
+    "version": 1,
+    "rules": [
+        {
+            "domain_suffix": "x.clearbitjs.com"
+        }
+    ]
 }

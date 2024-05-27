@@ -1,17 +1,12 @@
 {
-  "version": 1,
-  "rules": [
-    {
-      "domain": [
-        "mega.io",
-        "mega.nz",
-        "mega.co.nz"
-      ],
-      "domain_suffix": [
-        ".mega.io",
-        ".mega.nz",
-        ".mega.co.nz"
-      ]
-    }
-  ]
+    "version": 1,
+    "rules": [
+        {
+            "domain_suffix": [
+                "mega.io",
+                "mega.nz",
+                "mega.co.nz"
+            ]
+        }
+    ]
 }

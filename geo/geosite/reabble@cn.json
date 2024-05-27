@@ -1,9 +1,8 @@
 {
-  "version": 1,
-  "rules": [
-    {
-      "domain": "reabble.cn",
-      "domain_suffix": ".reabble.cn"
-    }
-  ]
+    "version": 1,
+    "rules": [
+        {
+            "domain_suffix": "reabble.cn"
+        }
+    ]
 }

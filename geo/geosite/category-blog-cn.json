@@ -1,9 +1,8 @@
 {
-  "version": 1,
-  "rules": [
-    {
-      "domain": "huangyuhui.net",
-      "domain_suffix": ".huangyuhui.net"
-    }
-  ]
+    "version": 1,
+    "rules": [
+        {
+            "domain_suffix": "huangyuhui.net"
+        }
+    ]
 }

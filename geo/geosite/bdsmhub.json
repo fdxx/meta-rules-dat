@@ -1,15 +1,11 @@
 {
-  "version": 1,
-  "rules": [
-    {
-      "domain": [
-        "bdsm123.xyz",
-        "bondagesm.xyz"
-      ],
-      "domain_suffix": [
-        ".bdsm123.xyz",
-        ".bondagesm.xyz"
-      ]
-    }
-  ]
+    "version": 1,
+    "rules": [
+        {
+            "domain_suffix": [
+                "bdsm123.xyz",
+                "bondagesm.xyz"
+            ]
+        }
+    ]
 }

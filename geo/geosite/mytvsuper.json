@@ -1,15 +1,11 @@
 {
-  "version": 1,
-  "rules": [
-    {
-      "domain": [
-        "mytvsuper.com",
-        "tvb.com"
-      ],
-      "domain_suffix": [
-        ".mytvsuper.com",
-        ".tvb.com"
-      ]
-    }
-  ]
+    "version": 1,
+    "rules": [
+        {
+            "domain_suffix": [
+                "mytvsuper.com",
+                "tvb.com"
+            ]
+        }
+    ]
 }

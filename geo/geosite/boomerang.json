@@ -1,15 +1,11 @@
 {
-  "version": 1,
-  "rules": [
-    {
-      "domain": [
-        "boomerang.com",
-        "wbdnbo.net"
-      ],
-      "domain_suffix": [
-        ".boomerang.com",
-        ".wbdnbo.net"
-      ]
-    }
-  ]
+    "version": 1,
+    "rules": [
+        {
+            "domain_suffix": [
+                "boomerang.com",
+                "wbdnbo.net"
+            ]
+        }
+    ]
 }

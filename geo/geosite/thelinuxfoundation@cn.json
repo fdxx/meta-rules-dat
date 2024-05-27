@@ -1,8 +1,8 @@
 {
-  "version": 1,
-  "rules": [
-    {
-      "domain": "cdn.ampproject.org"
-    }
-  ]
+    "version": 1,
+    "rules": [
+        {
+            "domain": "cdn.ampproject.org"
+        }
+    ]
 }
