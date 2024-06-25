@@ -4600,7 +4600,8 @@
                 "588ku.com",
                 "dancf.com",
                 "jin10.com",
-                "xiaoeknow.com"
+                "xiaoeknow.com",
+				"163jiasu.com"
             ],
             "domain_regex": [
                 ".+\\.cdnhwc([1-9]|10)\\.(cn|com)$",
