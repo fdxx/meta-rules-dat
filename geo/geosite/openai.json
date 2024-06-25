@@ -1,22 +1,19 @@
 {
-    "version": 1,
-    "rules": [
-        {
-            "domain": [
-                "chat.openai.com.cdn.cloudflare.net",
-                "openaiapi-site.azureedge.net",
-                "openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net",
-                "openaicomproductionae4b.blob.core.windows.net",
-                "production-openaicom-storage.azureedge.net",
-                "o33249.ingest.sentry.io",
-                "openaicom.imgix.net"
-            ],
-            "domain_suffix": [
-                "chatgpt.com",
-                "oaistatic.com",
-                "oaiusercontent.com",
-                "openai.com"
-            ]
-        }
-    ]
+	"version": 1,
+	"rules": [
+		{
+			"domain": [
+				"o33249.ingest.sentry.io"
+			],
+			"domain_keyword": [
+				"openai",
+				"chatgpt"
+			],
+			"domain_suffix": [
+				"oaistatic.com",
+				"oaiusercontent.com",
+				"ai.com"
+			]
+		}
+	]
 }
