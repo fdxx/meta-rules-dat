@@ -1,0 +1,17 @@
+{
+   "version": 1,
+   "rules": [
+      {
+         "domain": [
+            "ai.google.dev"
+         ],
+         "domain_suffix": [
+            "bard.google.com",
+            "deepmind.com",
+            "deepmind.google",
+            "gemini.google.com",
+            "generativeai.google"
+         ]
+      }
+   ]
+}
