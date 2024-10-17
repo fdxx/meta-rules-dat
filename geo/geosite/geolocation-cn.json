@@ -1,5 +1,5 @@
 {
-    "version": 1,
+    "version": 2,
     "rules": [
         {
             "domain": [
@@ -4601,8 +4601,8 @@
                 "dancf.com",
                 "jin10.com",
                 "xiaoeknow.com",
-		"163jiasu.com",
-		"servyou.com.cn"
+                "163jiasu.com",
+                "servyou.com.cn"
             ],
             "domain_regex": [
                 ".+\\.cdnhwc([1-9]|10)\\.(cn|com)$",

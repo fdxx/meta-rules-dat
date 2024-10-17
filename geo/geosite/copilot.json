@@ -1,10 +1,10 @@
 {
-   "version": 1,
-   "rules": [
-      {
-         "domain_keyword": [
-            "copilot"
-         ]
-      }
-   ]
+    "version": 2,
+    "rules": [
+        {
+            "domain_keyword": [
+                "copilot"
+            ]
+        }
+    ]
 }

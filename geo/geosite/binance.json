@@ -1,15 +1,15 @@
 {
-	"version": 1,
-	"rules": [
-		{
-			"domain_keyword": "binance",
-			"domain_suffix": [
-				"bnbstatic.com",
-				"saasexch.com",
-				"saasexch.io",
-				"appsflayer.com",
-				"bntrace.com"
-			]
-		}
-	]
+    "version": 2,
+    "rules": [
+        {
+            "domain_keyword": "binance",
+            "domain_suffix": [
+                "bnbstatic.com",
+                "saasexch.com",
+                "saasexch.io",
+                "appsflayer.com",
+                "bntrace.com"
+            ]
+        }
+    ]
 }
